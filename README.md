@@ -7,5 +7,3 @@ I see data as stories waiting to be told—every dataset has a hidden narrative 
 
 🌱 I’m currently learning advanced concepts in machine learning, data science, and cybersecurity.  
 
-📫 How to reach me: nour.h.safa@gmail.com or connect with me on LinkedIn: Nour Huda Safa.  
-
