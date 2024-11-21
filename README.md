@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @nhs04, also known as Nour Huda Safa.  
+- 👀 I’m interested in data science, software development, and creating impactful solutions through technology.  
+- 🌱 I’m currently learning advanced concepts in machine learning, data science, and cybersecurity.  
+- 💞️ I’m looking to collaborate on innovative projects in data science and web development.  
+- 📫 How to reach me: nour.h.safa@gmail.com or connect with me on LinkedIn: Nour Huda Safa.  
+- 😄 Pronouns: She/Her.  
+- ⚡ Fun fact: I see data as stories waiting to be told—every dataset has a hidden narrative to uncover! 📖📊  
