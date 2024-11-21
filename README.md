@@ -1,4 +1,4 @@
-**Hey there 👋**
+# **Hey there 👋**
 
 I’m Nour Safa, a Computer Science Student at the American University of Beirut.  
 
