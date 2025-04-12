@@ -7,7 +7,7 @@ I see data as stories waiting to be told—every dataset has a hidden narrative 
 
 🌱 I’m learning advanced concepts in machine learning, data science, and cybersecurity.  
 
-🕰️ Currently working on a website to digitalize Byblos Citadel.
+🕰️ Currently working on a website to digitalize Byblos Citadel and enhancing my real estate app.
 
 
 
