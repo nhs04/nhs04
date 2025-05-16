@@ -1,17 +1,15 @@
 # **Hey there 👋**
 
-I’m Nour Safa, a Computer Science Senior at the American University of Beirut.  
+I’m Nour Safa, a Computer Science graduate from the American University of Beirut (AUB).
 
-👀 I’m interested in data science, software development, and creating impactful solutions through technology.  
-I see data as stories waiting to be told—every dataset has a hidden narrative to uncover! 📖📊  
+Here you’ll find projects I worked on during my time at AUB. I explored software development, mobile apps, machine learning, databases, cloud, and much more.
 
-🌱 I’m learning advanced concepts in machine learning, data science, and cybersecurity.  
+👀 I’m really into data science, software development, and using tech to create things that matter. I think data is full of stories just waiting to be discovered 📊📖
 
-🕰️ Currently working on a website to digitalize Byblos Citadel and enhancing my real estate app.
+🎓 Next up, I’m heading to McGill to do my Master’s in Computer Science, and I’ll be focusing my thesis on data science and AI.
 
+🌱 Right now, I’m learning more about machine learning, data science, and cybersecurity.
 
-
-
-
+Thanks for checking out my work—I hope you enjoy exploring my repos! 😊 
 
 
