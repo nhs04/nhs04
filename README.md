@@ -2,7 +2,7 @@
 
 I’m Nour Safa, a Computer Science graduate from the American University of Beirut (AUB).
 
-Here you’ll find projects I worked on during my time at AUB. I explored software development, mobile apps, machine learning, databases, cloud, and much more.
+Here you’ll find projects I worked on during my time at AUB. I explored software development, mobile apps, machine learning, databases, business analytics, cloud, and much more.
 
 👀 I’m really into data science, software development, and using tech to create things that matter. I think data is full of stories just waiting to be discovered 📊📖
 
