@@ -1,11 +1,13 @@
 # **Hey there 👋**
 
-I’m Nour Safa, a Computer Science graduate from the American University of Beirut (AUB) and now a Master’s student in Computer Science at McGill University.
+I’m Nour Safa. I am a Computer Science graduate from the American University of Beirut (AUB). And I am now pursuing my Master’s in Computer Science at McGill University.
 
-Here you’ll find projects I’ve worked on over the years—covering software development, mobile apps, machine learning, databases, cloud, and more.
+🎓 At McGill, my focus is on AI and cybersecurity. My current thesis research explores Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), and how they can be engineered into robust, secure, and scalable systems.
 
-🎓 At McGill, I’m specializing in AI and cybersecurity, with a research focus on Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), and how they can be applied to build smarter, more secure systems.
+💼 Beyond research, I’ve gained industry experience in data science, applied AI, and frontend development—building pipelines, deploying ML models, and designing user-facing applications that bring real-world impact.
 
-🌱 Always learning—right now, I’m diving deeper into advanced machine learning, data science, and cybersecurity.
+🌱 I’m driven by curiosity and the challenge of solving complex problems. 
 
-Thanks for stopping by—hope you enjoy exploring my repos! 😊
+Here you’ll find projects I’ve built over the years—spanning software engineering, web and mobile apps, machine learning, databases, and cloud systems.
+
+Thanks for stopping by—feel free to explore my repos, and I hope they reflect the same passion I put into learning, building, and sharing. 🚀
